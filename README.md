@@ -1,7 +1,7 @@
 ![Header: "Hey it's Patrick !"](https://raw.githubusercontent.com/ifndev/ifndev/master/header.png)
 
 ## 😄 Who am i ?
-French student born in Bourbonnais, i discovered programming at age 8, and i'm still learning a lot every day !
+French student born in Bourbonnais (France), i discovered programming at age 8, and i'm still learning a lot every day !
 
 
 * 📚 IUT Informatique @ Saint-Dié-Des-Vosges
