@@ -25,12 +25,14 @@ Most of the repos on my account are fun little projects i started, mainly to lea
   - [Redux](https://redux.js.org/)
 * Lua
   - [Love2D](https://love2d.org/)
+* Markdown
 * LaTeX
 
 ### Other open source projects
 * [Schoolsyst](https://github.com/schoolsyst)
 * [Numworks](https://www.numworks.com/) ([Epsilon](https://github.com/numworks/epsilon))
    - [Omega](https://github.com/Omega-Numworks/Omega)
+* [Nextcloud](https://nextcloud.com/)
 * [Joplin](https://github.com/laurent22/joplin)
 * [Snakeware](https://github.com/joshiemoore/snakeware)
 
