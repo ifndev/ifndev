@@ -11,8 +11,6 @@ French student born in Bourbonnais (France), i discovered programming at age 8, 
 Most of the repos on my account are fun little projects i started, mainly to learn a language, framework, library or just for fun !
 
 ## i ❤...
-<details>
-<summary>click to show</summary>
   
 ### Languages, Frameworks & libraries
 * C++
@@ -35,8 +33,6 @@ Most of the repos on my account are fun little projects i started, mainly to lea
    - [Omega](https://github.com/Omega-Numworks/Omega)
 * [Joplin](https://github.com/laurent22/joplin)
 * [Snakeware](https://github.com/joshiemoore/snakeware)
-
-</details>
 
 ## ✉ Contact me
 [contact@patrickconti.fr](mailto:contact@patrickconti.fr)
