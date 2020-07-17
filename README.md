@@ -8,7 +8,7 @@ French student born in Bourbonnais (France), i discovered programming at age 8, 
 * 📍 Vichy/Clermont-Ferrand - Nîmes - Saint-Dié
 
 ## 💽 My Projects
-Most of the repos on my account are fun little projects i started, mainly to learn a language, framework, library or just for fun !
+Most of the repos on my account are little projects i started, mainly to learn a language, framework, library or just for fun !
 
 ## i ❤...
   
