@@ -3,6 +3,9 @@ name: Update README
 on:
   schedule:
     - cron: '*/30 * * * *'
+      
+  push:
+    branches: [ $default-branch ]
 
 jobs:
   build:
