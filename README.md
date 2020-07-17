@@ -16,24 +16,25 @@ Most of the repos on my account are fun little projects i started, mainly to lea
   
 ### Languages, Frameworks & libraries
 * C++
-  - SFML
+  - [SFML](https://github.com/SFML/SFML)
 * C
-* V
+  - [CE Programming](https://github.com/CE-Programming/)
+* [V](https://github.com/vlang/v)
 * Python
-  - BeautifulSoup 4
-  - OpenCV
+  - [OpenCV](https://opencv.org)
 * JS
-  - React
-  - Redux
+  - [React](https://fr.reactjs.org/)
+  - [Redux](https://redux.js.org/)
 * Lua
-  - Love2D
+  - [Love2D](https://love2d.org/)
+* LaTeX
 
 ### Other open source projects
-* Schoolsyst
-* Numworks (Epsilon)
-   - Omega
-* Joplin
-* Snakeware
+* [Schoolsyst](https://github.com/schoolsyst)
+* [Numworks](https://www.numworks.com/) ([Epsilon]())
+   - [Omega](https://github.com/Omega-Numworks/Omega)
+* [Joplin](https://github.com/laurent22/joplin)
+* [Snakeware](https://github.com/joshiemoore/snakeware)
 
 </details>
 
