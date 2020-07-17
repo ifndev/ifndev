@@ -31,7 +31,7 @@ Most of the repos on my account are fun little projects i started, mainly to lea
 
 ### Other open source projects
 * [Schoolsyst](https://github.com/schoolsyst)
-* [Numworks](https://www.numworks.com/) ([Epsilon]())
+* [Numworks](https://www.numworks.com/) ([Epsilon](https://github.com/numworks/epsilon))
    - [Omega](https://github.com/Omega-Numworks/Omega)
 * [Joplin](https://github.com/laurent22/joplin)
 * [Snakeware](https://github.com/joshiemoore/snakeware)
