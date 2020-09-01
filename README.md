@@ -36,8 +36,5 @@ Most of the repos on my account are little projects i started, mainly to learn a
 * [Joplin](https://github.com/laurent22/joplin)
 * [Snakeware](https://github.com/joshiemoore/snakeware)
 
-## ✉ Contact me
-[contact@patrickconti.fr](mailto:contact@patrickconti.fr)
-
 ## 👀 Visits
 ![Visitor Count](https://profile-counter.glitch.me/ifndev/count.svg)
