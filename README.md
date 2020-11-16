@@ -10,9 +10,9 @@ French student born in Bourbonnais (France), i discovered programming at age 8, 
 ## 💽 My Projects
 Most of the repos on my account are little projects i started, mainly to learn a language, framework, library or just for fun !
 
-## 📈 Stats
+## 📈 This week stats
 
-![Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifndev&layout=compact)
+![Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifndev&layout=compact&hide_title=true)
 
 ## 👀 Visits
 ![Visitor Count](https://profile-counter.glitch.me/ifndev/count.svg)
