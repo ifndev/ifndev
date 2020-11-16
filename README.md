@@ -12,7 +12,7 @@ Most of the repos on my account are little projects i started, mainly to learn a
 
 ## 📈 Stats
 
-![Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifndev)
+![Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=ifndev&layout=compact)
 
 ## 👀 Visits
 ![Visitor Count](https://profile-counter.glitch.me/ifndev/count.svg)
