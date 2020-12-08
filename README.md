@@ -3,6 +3,3 @@ French student born in Bourbonnais (France), i discovered programming at age 8, 
 
 * 📚 IUT Informatique @ Saint-Dié-Des-Vosges
 * 📍 Vichy/Clermont-Ferrand - Nîmes - Saint-Dié
-
-## 👀 Visits
-![Visitor Count](https://profile-counter.glitch.me/ifndev/count.svg)
